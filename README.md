@@ -15,4 +15,4 @@ I built a team profile generator using node.js and inquirer that can be run thro
 <img src="./src/readmeimage.jpg" alt="sample team profile generated using the app">
 </a>
 
-Link to video demonstration: 
+Link to video demonstration: https://watch.screencastify.com/v/OyO5IwOFb0kHSUO5y9FG
